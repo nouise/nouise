@@ -28,7 +28,7 @@ I'm a passionate researcher focusing on **Machine Learning**, **Computer Vision*
 ### 🎯 [Dataset Distillation as Data Compression: A Rate-Utility Perspective](https://nouise.github.io/DD-RUO/)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nouise/DD-RUO/main/poster.png" alt="DD-RUO Poster" width="700"/>
+  <img src="https://nouise.github.io/DD-RUO/static/results/full_images/system_page1.png" alt="DD-RUO Poster" width="700"/>
 </div>
 
 **Abstract:** Driven by the "scale-is-everything" paradigm, modern machine learning increasingly demands ever-larger datasets and models. Our work proposes a joint rate-utility optimization method for dataset distillation, achieving up to **170× greater compression** than standard distillation at comparable accuracy.
