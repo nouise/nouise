@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Yiping Liu (刘易坪)
 
-### 🎓 PhD Candidate | 🤖 Machine Learning Researcher | 💡 AI Innovator
+### 🤖 Machine Learning Researcher | 💡 AI Innovator
 
 [![Website](https://img.shields.io/badge/Website-nouise.github.io-blue?style=flat-square&logo=google-chrome)](https://nouise.github.io/DD-RUO/)
 [![Email](https://img.shields.io/badge/Email-yiping%40example.com-red?style=flat-square&logo=gmail)](mailto:yiping@example.com)
